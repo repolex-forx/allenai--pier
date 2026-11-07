@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "pier",
+  "versions": [
+    {
+      "commit": "cadf04911612f63a7b900d40d21c92786f6bfd3d",
+      "parsed_at": "2026-11-07T18:29:24.855195+00:00",
+      "filetree": "filetree/cadf04911612f63a7b900d40d21c92786f6bfd3d.nq.gz",
+      "blobs": [
+        "blob/0b73847dfd4adf2affcb2557abf353301ace5ec0.nq.gz",
+        "blob/03cdb171829534ef98f89cf5c1f908752172152e.nq.gz",
+        "blob/df95264c68c55ae919e93b3ac546a88f33bbc2e0.nq.gz",
+        "blob/175ebc5cd5a16e79d7838dad1b4f85b28976cd29.nq.gz",
+        "blob/e1032486205d9eb7c2f715e734b794e65f3a8371.nq.gz",
+        "blob/1b05aea9c4547848d3bbdce3dcea6bb046868cd9.nq.gz",
+        "blob/3dc1f76bc69e3f559bee6253b24fc93acee9e1f9.nq.gz",
+        "blob/9dafb231281fb14906c7b05009e77136dbfb2c7c.nq.gz",
+        "blob/8b5d905315f2db4ba8748eeb4358aabcd9388080.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/3a6fb973e4e5d3741e3e65c18764c43bdefb74e4.nq.gz",
+        "blob/216d3f1af6f3354828c463855e6aa0ff91b00ddd.nq.gz",
+        "blob/880302bcc19b7f496abd73f67a1150efb20f7251.nq.gz",
+        "blob/5c973168ecdcfea58133a86af58a5906265cf35f.nq.gz",
+        "blob/af48256bb8824f7e5921dd9342bcc562550176d3.nq.gz",
+        "blob/110198e8a465588ddef5af8d9c873960d4fcb896.nq.gz",
+        "blob/21e8e4d579daa72c8c99d9e94d5f74aa6abac6ae.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/00750b6f70ac0fdd1227f66ba387ad06e29dde09.nq.gz",
+        "blob/a7416668b41a55cb3fba7c0617e5a2c87dede77e.nq.gz",
+        "blob/561bf1cd96c0f9207a5247fd8cd3410136f42102.nq.gz",
+        "blob/cc4fd268647571f8c3436552eefce1b377d6df77.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

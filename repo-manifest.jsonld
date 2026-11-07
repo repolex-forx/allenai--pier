@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/pier/commit/cadf04911612f63a7b900d40d21c92786f6bfd3d",
       "git:hexsha": "cadf04911612f63a7b900d40d21c92786f6bfd3d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
